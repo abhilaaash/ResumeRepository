@@ -1,0 +1,54 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+/* Section styles */
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.education {
+    background-color: #d9fbee; /* Light gray */
+}
+
+.work-experience {
+    background-color: #FF00FF; /* Light blue */
+}
+
+.skills {
+    background-color: #FFD700; /* Light yellow */
+}
+
+.projects {
+    background-color: #C0C0C0; /* Light pink */
+}
+
+/* Example style for Education section */
+h2 {
+    font-size: 24px;
+    margin-top: 0;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+}
