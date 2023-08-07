@@ -30,19 +30,19 @@ section {
 }
 
 .education {
-    background-color: #d9fbee; /* Light gray */
+    background-color: #C0C0C0; /* Light gray */
 }
 
 .work-experience {
-    background-color: #FF00FF; /* Light blue */
+    background-color: #FFD700; /* Light blue */
 }
 
 .skills {
-    background-color: #C0C0C0; /* Light yellow */
+    background-color: #d9fbee; /* Light yellow */
 }
 
 .projects {
-    background-color: #FFD700; /* Light pink */
+    background-color: #FF00FF; /* Light pink */
 }
 
 /* Example style for Education section */
